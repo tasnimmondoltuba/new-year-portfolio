@@ -110,6 +110,39 @@ margin-bottom: 120px;
   
 }
 /* welcome section end */
+/* join section styles */
+.join-section{
+    background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+    height: 300px;
+    margin: 120px 140px;
+    padding:100px 385px 125px 385px ;
+}
+.join-section p{
+    text-align: center;
+    
+}
+.pri-button{
+    color: #FFF;
+    padding:20px 40px;
+    margin: 65px 90px 125px 200px;
+    font-size: 20px;
+    border: 1px solid gold;
+    font-weight: 700;
+    border-radius: 5px;
+    box-shadow: 2px 3px 8px rgb(151, 127, 60);
+}
+.join-button{
+ padding-left: 40px;
+ padding-bottom: 120px;
+   
+}
+.same-color{
+    color: #F00;
+    font-size: 25px;
+    font-weight: 600;
+
+
+}
 /* best offer section */
 .best-section{
     display: flex;
