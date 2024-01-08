@@ -155,17 +155,22 @@ margin-bottom: 120px;
     color: #F00;
     font-size: 24px;
     font-weight: 500;
+    margin-bottom: 0px;
+  
   
 }
 .best-offer-description h1{
+    margin-top: 5px;
     color: #070211;
     font-family: Merriweather;
     font-size: 48px;
     font-weight: 900;
+    margin-bottom: 0px;
 
 }
 .best-offer-description p{
-    color: rgba(7, 2, 17, 0.60);
+    margin-top: 20px;
+    color: #07021199;
     font-size: 20px;
 }
 .best-offer-img{
@@ -187,14 +192,71 @@ margin-bottom: 120px;
     color: #F00;
     font-size: 48px;
     font-weight: 700;
+    margin-bottom: 0px;
 
 }
 .best-offer-sider p{
+    margin-top: 10px;
     color: rgba(7, 2, 17, 0.60);
     font-size: 20px;
 
 }
 /* best offer section end */
+/* holy sale section */
+.holy-description{
+    text-align: center;
+}
+.holy-description h6{
+    color: #070211;
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 0px;
+}
+.holy-description h1{
+    margin-top: 10px;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-weight: 900;
+    margin-bottom: 0px;
+}
+.holy-description p{
+    color: rgba(7, 2, 17, 0.60);
+    margin: 15px 140px 50px 140px ;
+    font-size: 20px;
+    font-weight: 500;
+}
+.holy-section{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 50px 140px 120px 140px;
+    
+    background-image: url('../resources/Rectangle\ 2.png');
+    background-position:  bottom;
+    background-repeat: no-repeat;
+    padding-right:560px ;
+    padding-left: 300px;
+    
+ 
+}
+.holy-gift{
+  
+    padding-left: 140px;
+    padding-top:200px;
+}
+.holy-sale{
+    padding-left: 335px;
+    padding-top: 150px;
+    padding-bottom: 202px;
+    background-image: url('../resources/Rectangle\ 1.png');
+    background-repeat: no-repeat;
+    background-position: top right;
+}
+.holy-sale img{
+    margin-right:250px ;
+ 
+}
+
+
 /* portfolio section styles */
 .portfolio-section{
     margin: 45px 140px 0px 140px; 
