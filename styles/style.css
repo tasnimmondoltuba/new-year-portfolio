@@ -81,7 +81,7 @@ margin-bottom: 120px;
     gap: 0px;
 }
 .welcome-section img{
- padding: 70px 100px 70px 0px;
+    padding: 70px 100px 70px 0px;
 }
 .welcome-section h2{
     color: #FFF;
@@ -109,3 +109,58 @@ margin-bottom: 120px;
     box-shadow: 2px 3px 8px rgb(151, 127, 60);
   
 }
+/* welcome section end */
+/* portfolio section styles */
+.portfolio-section{
+    margin: 45px 140px 0px 140px; 
+}
+.portfolio-description{
+    margin: 45px 0px;
+}
+.portfolio-description h6{
+    color: #F00;
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 10px;
+
+}
+.portfolio-description h2{
+    margin-top: 10px;
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    margin-bottom: 20px;
+}
+.portfolio-description p{
+    margin-top: 0px;
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    margin-bottom: 0px;
+}
+.gift-section{
+    margin: 10px auto;
+    
+   
+}
+.gift-row-1, .gift-row-2{
+    display: flex;
+    gap: 55px;
+    justify-content: center;
+  
+}
+.gift-row-1{
+    margin-bottom: 55px;
+    
+    
+}
+.gift-row-2{
+    margin-bottom: 120px;
+}
+.img :hover{
+
+border: 2px solid red;
+border-radius: 16px;
+}
+
+
