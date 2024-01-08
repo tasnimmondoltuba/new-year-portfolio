@@ -1,0 +1,33 @@
+/* overall font-family add */
+  @import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+  body{
+    height: 100%;
+    margin: 0px;
+  }
+
+/* bannar section style */
+.bannar{
+    background:linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url('../resources/Banner\ Image.png');
+    border-radius: 20px;
+    background-position: center;
+    background-repeat: no-repeat; 
+    background-size: cover;
+    height: 600px;
+    margin: 50px 140px 0px 140px;
+}
+.bannar h4{
+    padding: 175px 530px 0px 530px;
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 32px;
+    }
+.bannar h2{
+    margin: 0px 345px 175px 345px;
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-weight: 900;
+}
+/* banner styles end */
