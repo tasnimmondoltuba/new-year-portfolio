@@ -217,4 +217,54 @@ margin-bottom: 120px;
     margin-right: 392px;
     margin-top: 10px;
 }
+/* subscription section end */
+ /* footer section */
+ .footer{
+    background-color: #070211;
+    height: 650px;
+    color: #FFF;
+    
+ }
+ .footer-upper-section{
+    display: flex;
+    justify-content: space-around;
+    gap: 530px;
 
+   
+ }
+ .left-uper-section{
+    padding:120px 250px 20px 140px;
+    width: 50%;
+
+  
+ }
+.right-uper-section{
+    padding: 120px 140px 20px 100px;
+    width: 50%;
+ }
+ .contacts{
+    display: flex;
+    gap: 10px;
+    
+ }
+ .contacts img{
+    padding-top: 10px;
+    height: 25px;
+    width: 25px;
+ }
+ hr{
+  border: 1px solid  rgba(255, 255, 255, 0.15);
+    margin: 50px 140px;
+ }
+ /* contact section */
+ .cont-section{
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+ }
+ .last-section{
+    display: flex;
+    gap: 300px;
+    justify-content: space-between;
+    padding: 0px 140px 0px 140px;
+ }
