@@ -67,3 +67,45 @@ margin-bottom: 120px;
 }
 /* 65% off section end */
 /* welcome section styels */
+.welcome-section{
+    background: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%) , url('../resources/Vectorrr.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 120px 140px;
+    height: 600px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center top;
+    padding-top: 10px;
+    gap: 0px;
+}
+.welcome-section img{
+ padding: 70px 100px 70px 0px;
+}
+.welcome-section h2{
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 64px;
+    font-weight: 900;
+    padding: 50px 400px 0px 80px;
+    margin-bottom: 24px;
+}
+.welcome-section p{
+    color: rgba(255, 255, 255, 0.80);
+    font-size: 18px;
+    padding: 25px 400px 40px 80px;
+    margin-bottom: 0px;
+}
+.pri-button{
+    background-color: gold;
+    padding: 10px;
+    text-align: center; 
+    margin: 10px 0px 200px 140px;
+    font-size: 20px;
+    border: 1px solid gold;
+    font-weight: 700;
+    border-radius: 5px;
+    box-shadow: 2px 3px 8px rgb(151, 127, 60);
+  
+}
